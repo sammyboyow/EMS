@@ -1,0 +1,55 @@
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\bin\Debug\Sam Login.exe.config
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\bin\Debug\Sam Login.exe
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\bin\Debug\Sam Login.pdb
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\bin\Debug\Sam Login.xml
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam Login.vbprojResolveAssemblyReference.cache
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam_Login.Form1.resources
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam_Login.Resources.resources
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam Login.vbproj.GenerateResource.Cache
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam Login.exe
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam Login.xml
+c:\users\hpuser\documents\visual studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam Login.pdb
+C:\Users\hpuser\Documents\Visual Studio 2017\Projects\Sam Login\Sam Login\obj\Debug\Sam_Login.Form2.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form1.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form2.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam Login.vbproj.GenerateResource.cache
+D:\Sam Login\Sam Login\bin\Debug\Sam Login.exe.config
+D:\Sam Login\Sam Login\bin\Debug\Sam Login.exe
+D:\Sam Login\Sam Login\bin\Debug\Sam Login.pdb
+D:\Sam Login\Sam Login\bin\Debug\Sam Login.xml
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Resources.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam Login.vbproj.CoreCompileInputs.cache
+D:\Sam Login\Sam Login\obj\Debug\Sam Login.vbproj.CopyComplete
+D:\Sam Login\Sam Login\obj\Debug\Sam Login.exe
+D:\Sam Login\Sam Login\obj\Debug\Sam Login.xml
+D:\Sam Login\Sam Login\obj\Debug\Sam Login.pdb
+D:\Sam Login\Sam Login\obj\Debug\Sam Login.vbprojAssemblyReference.cache
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form3.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form4.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form5.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form6.resources
+D:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form7.resources
+H:\Sam Login\Sam Login\bin\Debug\Sam Login.exe.config
+H:\Sam Login\Sam Login\bin\Debug\Sam Login.exe
+H:\Sam Login\Sam Login\bin\Debug\Sam Login.pdb
+H:\Sam Login\Sam Login\bin\Debug\Sam Login.xml
+H:\Sam Login\Sam Login\obj\Debug\Sam Login.vbprojAssemblyReference.cache
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form1.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form2.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form3.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form4.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form5.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form6.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form7.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Resources.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam Login.vbproj.GenerateResource.cache
+H:\Sam Login\Sam Login\obj\Debug\Sam Login.vbproj.CoreCompileInputs.cache
+H:\Sam Login\Sam Login\obj\Debug\Sam Login.vbproj.CopyComplete
+H:\Sam Login\Sam Login\obj\Debug\Sam Login.exe
+H:\Sam Login\Sam Login\obj\Debug\Sam Login.xml
+H:\Sam Login\Sam Login\obj\Debug\Sam Login.pdb
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.BulkCopy.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Form9.resources
+H:\Sam Login\Sam Login\obj\Debug\Sam_Login.Frmloading.resources
